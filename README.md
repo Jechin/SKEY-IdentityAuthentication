@@ -45,7 +45,7 @@ An Information System Security Experiment
 
 ### 服务器端流程图
 
-![image](https://github.com/Jechin/SKEY-IdentityAuthentication/blob/main/src/Server.png)
+![image -w 150](https://github.com/Jechin/SKEY-IdentityAuthentication/blob/main/src/Server.png)
 
 ### 客户端流程图
 
