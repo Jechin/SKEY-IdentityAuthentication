@@ -41,6 +41,16 @@ An Information System Security Experiment
 
 服务器端将收到的一次性口令传给安全hash函数进行一次运算。若与上一次保存的口令匹配，则认证通过并将收到的口令保存供下次验证使用
 
+## 流程图
+
+### 服务器端流程图
+
+![image](https://github.com/Jechin/SKEY-IdentityAuthentication/blob/main/src/Server.png)
+
+### 客户端流程图
+
+![image](https://github.com/Jechin/SKEY-IdentityAuthentication/blob/main/src/Client.png)
+
 ## 实现功能
 
 - [x] 支持用户名/口令/验证码机制的身份认证；
